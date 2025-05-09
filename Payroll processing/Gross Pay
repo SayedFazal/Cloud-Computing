@@ -1,0 +1,1 @@
+input.Gross_Pay = input.Basic_Pay + input.HRA + input.DA + input.TA + input.Other_Allowance;
