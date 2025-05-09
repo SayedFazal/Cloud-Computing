@@ -1,0 +1,1 @@
+input.Marks_Obtained = input.English_Mark + input.Hindi_Marks + input.Maths_Marks + input.Science_Marks + input.Social_Marks;
