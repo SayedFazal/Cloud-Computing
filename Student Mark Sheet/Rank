@@ -1,0 +1,16 @@
+if(input.Percenatge >= 90)
+{
+	input.Rank = "S";
+}
+else if(input.Percenatge >= 80)
+{
+	input.Rank = "A";
+}
+else if(input.Percenatge >= 70)
+{
+	input.Rank = "B";
+}
+else
+{
+	input.Rank = "F";
+}
